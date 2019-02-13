@@ -34,10 +34,6 @@ For our purposes today we will oversimplify by saying that a repositoy belongs *
 	- Go to [settings](https://github.com/settings/profile) and upload any picture (it doesn't have to be your face)
 - Create a repository 
 	- For directions specific to CD2H Phase II projects, see the FAQ [here](https://docs.google.com/document/d/1UNNxrOpHm7B9hw2Xn2JP_O1DYa7tCHx8OYEC1r0YAyU/edit#)
-	- give your new repository a name, like MTIP-test (don't worry, you can delete this later)
-	- Give it a description
-	- Make it public
-	- Click "Initialize this repository with a README"
 
 ### Markdown
 
