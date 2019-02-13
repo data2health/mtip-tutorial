@@ -29,11 +29,9 @@ For our purposes today we will oversimplify by saying that a repositoy belongs *
 ![](../howto/images/github-organizations-teams-repos.png)
 
 ### Task - create a new GitHub repository
-- [Create your GitHub account](https://github.com/)
-- Customize your avatar
-	- Click the upper right hand corner
-	- Choose settings
-	- Upload new picture
+- [Create your GitHub account](https://github.com/join) if you do not already have one
+- Customize your avatar if you haven't already
+	- Go to [settings](https://github.com/settings/profile) and upload any picture (it doesn't have to be your face)
 - Create a repository 
 	- For directions specific to CD2H Phase II projects, see the FAQ [here](https://docs.google.com/document/d/1UNNxrOpHm7B9hw2Xn2JP_O1DYa7tCHx8OYEC1r0YAyU/edit#)
 	- give your new repository a name, like MTIP-test (don't worry, you can delete this later)
