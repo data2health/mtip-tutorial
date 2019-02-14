@@ -91,7 +91,7 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - If you have been onboarded to CD2H, you should have received an invite to cd2h.slack.com; feel free to join the #mtip channel. If you have not been invited but would like to be, please email data2health [at] gmail.com
 
 ### Additional Resources
-- [Frequently Asked Questions](FAQ)
+- [Frequently Asked Questions](https://docs.google.com/document/d/1UNNxrOpHm7B9hw2Xn2JP_O1DYa7tCHx8OYEC1r0YAyU/edit#)
 - [Git and GitHub for Documentation](http://www.slideshare.net/annegentle/git-and-github-for-documentation)
 - [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 - [Git 101: Git and GitHub for Beginners](http://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners)
