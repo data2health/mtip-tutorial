@@ -87,11 +87,8 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - Upload a file by dragging and dropping or browse for file
 - Trying uploading an Excel file vs a TSV or CSV file. How are these displayed differently?
 
-### Gitter
-Gitter is a chat platform (like Skype, Slack, etc.) that is (optionally) linked to GitHub accounts.
-
-We created a Gitter room for this tutorial, please join [here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link).
-
+### Chat
+- If you have been onboarded to CD2H, you should have received an invite to cd2h.slack.com; feel free to join the #mtip channel. If you have not been invited but would like to be, please email data2health@gmail.com
 
 ### Additional Resources
 - [Frequently Asked Questions](FAQ)
