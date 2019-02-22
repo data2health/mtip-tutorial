@@ -20,7 +20,7 @@ Git supports the following types of primary entities:
   - Example organization: [http://github.com/data2health](http://github.com/data2health)
 - **Repository:** A collection of versioned files (of any type)
   - Example repository [http://github.com/data2health/mtip-tutorial](http://github.com/data2health/mtip-tutorial)
-- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization. 
+- **Teams**: A group of individuals assembled by the administrators of an organization. An individual may participate in many teams and organizations, however a team is always bound to a single organization. Nesting teams saves time; [instructions here](https://github.blog/2017-06-13-nested-teams-add-depth-to-your-team-structure/).
   - Example team [https://github.com/orgs/data2health/teams/mtiptutorial](https://github.com/orgs/data2health/teams/mtiptutorial)
 
 The relationships between any combination of these entities is many-to-many, with the nuanced exception of repositories.
