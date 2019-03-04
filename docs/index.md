@@ -36,7 +36,7 @@ We are -- all of us -- continually learning. Road-tested lessons learned and str
 |1pm | [4](lessons/Lesson4.md) | [Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md) |
 |1:30pm | [5](lessons/Lesson5.md)	| [Gentle introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
 |2:30pm	| [6](lessons/Lesson6.md)	| [Gentle intro to managing and tracking issues in GitHub](lessons/Lesson6.md) | 
-|3:30pm | [7]| Hacks to boost productivity of individuals and teams | 
+|3:30pm | 7| Hacks to boost productivity of individuals and teams | 
 |4:00pm |  | Optional: Knowledge-sharing session / Q&A |
 
 #### Privacy
