@@ -5,7 +5,32 @@ It can be tricky to maintain the source-of-truth for participants of a project l
 
 ### Overview
 
-- Use of RedCap versus Google docs for onboarding
+- We will introduce RedCap but hands-on training we be using Google forms since RedCap authorization varies by institution. Some of the basic techniques are transferrable.
+
+#### Intro to Google forms
+- Option to require sign in and allow only 1 response per person (that can be updated)
+- Responses can be validated (eg. a URL, or a value between X and Y)
+- Responses can be dumped dynamically to gSheet
+- Easy-to-use design interface
+- Concept-to-impelementation in minutes
+- Negatives
+  - Not all institutions allow use of Google forms
+  - Compared to RedCap, offers much less rigorous versioning options, both of the form and its responses
+
+#### See one
+ - Watch this demonstrated action populate multiple different custom views:
+     - [External views using Google's importrange function](https://docs.google.com/spreadsheets/d/1x6HaFDqDpE8CMTrEIehEsEGcme9OviMwXWzRWtFaMPI/edit#gid=0)
+     - [Pivot tables](https://docs.google.com/spreadsheets/d/1x6HaFDqDpE8CMTrEIehEsEGcme9OviMwXWzRWtFaMPI/edit#gid=1163446730)
+     - [Sparklines](https://docs.google.com/spreadsheets/d/1x6HaFDqDpE8CMTrEIehEsEGcme9OviMwXWzRWtFaMPI/edit#gid=1163446730)
+  
+#### Do one
+- Create a simple google form
+ - Configure to collect email addreses from respondents, dump responses to an existing spreadsheet of your choice
+- Get your neighbor to fill out the survey (while you fill out theirs)
+- Edit your form's questions
+- Get your neighbor to update their response
+- Creat a live feed of the responses to an external spreadsheet using the importrange function
+- Try out pivot table functions
 
 #### from [the redcap site](https://rc.partners.org/research-apps-and-services/collect-data)
 
@@ -24,28 +49,6 @@ ADVANTAGES OF REDCAP OVER MS EXCEL, ACCESS AND SOME OTHER ONLINE SURVEY TOOLS:
 
 - Demonstration of onboarding using RedCap in action [here](https://redcap-dev.cgrb.oregonstate.edu/surveys/?s=9DAAEDK8M7)
 - Try it at home; upload the sample data dictionary from [here](https://github.com/data2health/mtip-tutorial/blob/master/docs/data/ProjectOnboarding_DataDictionary_2018-09-15.csv) into your own instance.
-
-#### Features of Google forms
-- Option to require sign in and allow only 1 response per person
-- URL validation
-- Dump to gspreadsheet
- - Watch this demonstrated action populate multiple different custom views:
-     - Pivot tables
-     - External views using Google's importrange function
-- Easy to use design interface
-- Concept to impelementation in minutes
-- Negatives
-  - Not all institutions allow use of Google forms
-  - Compared to RedCap, offers much less rigorous versioning options, both of the form and its responses
-  
-#### See one, do one
-- Create a simple google form
- - Configure to collect email addreses from respondents, dump responses to an existing spreadsheet of your choice
-- Get your neighbor to fill out the survey (while you fill out theirs)
-- Edit your form's questions
-- Get your neighbor to update their response
-- Feed a view of the responses to an external spreadsheet using the importrange function
-- Try out pivot table functions
   
 ### RedCap Training at OHSU
 More information [here](https://www.ohsu.edu/xd/research/centers-institutes/octri/resources/octri-research-services/redcap-tutorials.cfm)
