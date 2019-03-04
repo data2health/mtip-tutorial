@@ -3,7 +3,12 @@
 
 **When**: March 25, 2019 
 **Time**: 9am - 4pm PT (with a break for non-hosted lunch)  
-**Where**: TBD. Take the south elevators and follow the signs to get to the room.
+**Where**: 
+Northwestern University Chicago campus
+Rubloff Building, 375 E Chicago Ave. - Lakeview Conference Room, 11th floor
+Chicago, IL 60611 (campus map) 
+Remote participation info will be sent to registrants
+
 
 Translational Informatics projects are increasingly cross-institutional and even international; managing them comes with lots of shared pain points. This one day workshop will provide hands-on training to anyone who is organizing or managing cross-functional distributed teams that develop code or that analyze data across the translational divide*. Specifically, we will introduce several the practical tools and techniques for managers to facilitate these kinds of endeavors. The hands-on training will familiarize participants with helpful tools and techniques, and to help them make informed decisions about which tools might work best for their particular contexts. We conclude with a session wherein all participants are welcome to share additional pain points and related experience.
 
@@ -11,11 +16,11 @@ Translational Informatics projects are increasingly cross-institutional and even
 **Prerequisites**: No prior knowledge of any of the tools is required, and participation in any or all of the modules is warmly welcome.  
 **Cost**: Free to attend  
 
-#### [Register here](https://docs.google.com/forms/d/e/1FAIpQLSdNWPSk1jJVu-b2ITL6SwNVlOkaqdHiymTV4GtrZzmetuaJdQ/viewform)
+#### [Register here](bit.ly/mtip_nu)
 Note that if the workshop is oversubscribed, a second date will be considered.
 
 #### Invitation
-We are -- all of us -- continually learning. We the facilitators are going to present some lessons learned and strategies  that work best for us, but if there is a newer, better, more scaleable way of doing something operational, we really want to know so we can have more time to focus on the science. Speak up; we would love to hear.
+We are -- all of us -- continually learning. Road-tested lessons learned and strategies will be taught, but if there is a newer, better, more scaleable way of doing something operational, we really want to know so we can have more time to focus on the science. Speak up; we would love to hear.
 
 ### Agenda
 
@@ -27,10 +32,10 @@ We are -- all of us -- continually learning. We the facilitators are going to pr
 |10am	| [2](lessons/Lesson2.md)	| [Introduction to RedCap for team onboarding](lessons/Lesson2.md) | 
 |11am	| [3](lessons/Lesson3.md)	| [Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) |
 |1pm | [4](lessons/Lesson4.md) | [Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md) |
-|1:30pm | [5](lessons/Lesson5.md)	| [Introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
-|2:30pm	| [6](lessons/Lesson6.md)	| [Intro to managing and tracking issues in GitHub](lessons/Lesson6.md) | 
-|3:30pm |  | Knowledge-sharing session / Q&A |
-|4:00pm |  | Conclude |
+|1:30pm | [5](lessons/Lesson5.md)	| [Gentle introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
+|2:30pm	| [6](lessons/Lesson6.md)	| [Gentle intro to managing and tracking issues in GitHub](lessons/Lesson6.md) | 
+|3:30pm | [7]| Hacks to boost productivity of individuals and teams | 
+|4:00pm |  | Optional: Knowledge-sharing session / Q&A |
 
 #### Privacy
 \* This tutorial is scoped for public data and communications only. If have any questions about the suitability of these technologies for your particular project at your institution, please contact them. At OHSU, the right place to ask is the information technology group: [https://o2.ohsu.edu/information-technology-group/contact-us.cfm](https://o2.ohsu.edu/information-technology-group/contact-us.cfm)
