@@ -38,6 +38,14 @@ ADVANTAGES OF REDCAP OVER MS EXCEL, ACCESS AND SOME OTHER ONLINE SURVEY TOOLS:
   - Not all institutions allow use of Google forms
   - Compared to RedCap, offers much less rigorous versioning options, both of the form and its responses
   
+#### See one, do one
+- Create a simple google form
+ - Configure to collect email addreses from respondents, dump responses to an existing spreadsheet of your choice
+- Get your neighbor to fill out the survey (while you fill out theirs)
+- Edit your form's questions
+- Get your neighbor to update their response
+- Feed a view of the responses to an external spreadsheet using the importrange function
+- Try out pivot table functions
   
 ### RedCap Training at OHSU
 More information [here](https://www.ohsu.edu/xd/research/centers-institutes/octri/resources/octri-research-services/redcap-tutorials.cfm)
