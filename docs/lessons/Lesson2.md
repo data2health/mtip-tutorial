@@ -1,6 +1,8 @@
 ## Lesson 2: Form-based onboarding and operations
 ##### [Back to Home](../index.md)
 
+It can be tricky to maintain the source-of-truth for participants of a project larger than a dozen people. Well-considered forms can help achieve this; however, it can be useful to know what kind of form you need.
+
 ### Overview
 
 - Use of RedCap versus Google docs for onboarding
@@ -27,11 +29,15 @@ ADVANTAGES OF REDCAP OVER MS EXCEL, ACCESS AND SOME OTHER ONLINE SURVEY TOOLS:
 - Option to require sign in and allow only 1 response per person
 - URL validation
 - Dump to gspreadsheet
+ - Watch this demonstrated action populate multiple different custom views:
+     - Pivot tables
+     - External views using Google's importrange function
 - Easy to use design interface
 - Concept to impelementation in minutes
 - Negatives
   - Not all institutions allow use of Google forms
   - Compared to RedCap, offers much less rigorous versioning options, both of the form and its responses
+  
   
 ### RedCap Training at OHSU
 More information [here](https://www.ohsu.edu/xd/research/centers-institutes/octri/resources/octri-research-services/redcap-tutorials.cfm)
