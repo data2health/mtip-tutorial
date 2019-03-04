@@ -1,4 +1,4 @@
-## Lesson 2: Using RedCap for team onboarding
+## Lesson 2: Form-based onboarding and operations
 ##### [Back to Home](../index.md)
 
 ### Overview
