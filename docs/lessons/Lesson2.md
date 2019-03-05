@@ -5,7 +5,7 @@ It can be tricky to maintain the source-of-truth for participants of a project l
 
 ### Overview
 
-- We will introduce RedCap but hands-on training we be using Google forms since RedCap authorization varies by institution. Some of the basic techniques are transferrable.
+- We will introduce REDCap but the hands-on training will be for Google forms (REDCap authorization varies by institution and REDCap-specific training is typically offered for free once authorized). Some of the basic information management techniques you will learn using Google forms / spreadsheets are transferrable to REDCap / excel.
 
 #### Intro to Google forms
 - Option to require sign in and allow only 1 response per person (that can be updated)
