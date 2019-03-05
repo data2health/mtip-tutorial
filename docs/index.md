@@ -6,7 +6,7 @@
 **Where**: 
 Northwestern University Chicago campus
 Rubloff Building, 375 E Chicago Ave. - Lakeview Conference Room, 11th floor
-Chicago, IL 60611 (campus map) 
+Chicago, IL 60611 ([campus map](https://maps.northwestern.edu/facility/30)) 
 Remote participation info will be sent to registrants
 
 
@@ -31,7 +31,7 @@ We are -- all of us -- continually learning. Road-tested lessons learned and str
 | Time (PT)| Lesson # | Description | 
 |:-------:|:-------------:|:------------------:|
 |9am	| [1](lessons/Lesson1.md)	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
-|10am	| [2](lessons/Lesson2.md)	| [Introduction to RedCap for team onboarding](lessons/Lesson2.md) | 
+|10am	| [2](lessons/Lesson2.md)	| [Introduction to form-based onboarding for teams](lessons/Lesson2.md) | 
 |11am	| [3](lessons/Lesson3.md)	| [Survival strategies for managing (naming, versioning) documents in shared locations (Github, Dropbox, Box, etc.)](lessons/Lesson3.md) |
 |1pm | [4](lessons/Lesson4.md) | [Survival strategies for team communication eg. via persistent chat / email etc](lessons/Lesson4.md) |
 |1:30pm | [5](lessons/Lesson5.md)	| [Gentle introduction to GitHub for managers (non-programmers)](lessons/Lesson5.md) |
