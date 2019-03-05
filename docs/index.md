@@ -2,7 +2,7 @@
 ## Managing Translational Informatics Projects (MTIP)
 
 **When**: March 25, 2019 
-**Time**: 9am - 4pm PT (with a break for non-hosted lunch)  
+**Time**: 9am - 5pm PT (with a break for non-hosted lunch)  
 **Where**: 
 Northwestern University Chicago campus
 Rubloff Building, 375 E Chicago Ave. - Lakeview Conference Room, 11th floor
