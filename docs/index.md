@@ -21,7 +21,7 @@ Translational Informatics projects are increasingly cross-institutional and even
 
 **Cost**: Free to attend  
 
-#### Registratopm
+#### Registration
 
 Register at http://bit.ly/mtip_nu
 
