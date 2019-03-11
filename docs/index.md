@@ -10,7 +10,7 @@ March 25, 2019
 **Where**: 
 Northwestern University Chicago campus
 Rubloff Building, 375 E Chicago Ave. - Lakeview Conference Room, 11th floor
-Chicago, IL 60611 ([campus map](https://maps.northwestern.edu/facility/30)). Space is limited to 15-18 so registration is required. Remote participation info will be sent to registrants
+Chicago, IL 60611 ([campus map](https://maps.northwestern.edu/facility/30)). In person space is limited to 15-18 so registration is required. Remote participation info will be sent to registrants.
 
 
 Translational Informatics projects are increasingly cross-institutional and even international; managing them comes with lots of shared pain points. This one day workshop will provide hands-on training to anyone who is organizing or managing cross-functional distributed teams that develop code or that analyze data across the translational divide*. Specifically, we will introduce several the practical tools and techniques for managers to facilitate these kinds of endeavors. The hands-on training will familiarize participants with helpful tools and techniques, and to help them make informed decisions about which tools might work best for their particular contexts. We conclude with a session wherein all participants are welcome to share additional pain points and related experience.
@@ -47,4 +47,6 @@ We are -- all of us -- continually learning. Road-tested lessons learned and str
 
 ### Contact us
 For questions about the workshop itself, contact us at [data2health+mtip@gmail.com](mailto:data2health+mtip@gmail.com)
+
+Suggest an edit [here via GitHub](https://github.com/data2health/mtip-tutorial/edit/master/docs/index.md)
 
