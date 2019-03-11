@@ -21,7 +21,8 @@ Translational Informatics projects are increasingly cross-institutional and even
 
 **Cost**: Free to attend  
 
-#### Register at http://bit.ly/mtip_nu
+#### Registratopm
+Register at http://bit.ly/mtip_nu
 Note that if the workshop is oversubscribed, a second date will be considered. Members of CTSA institutions will be prioritized.
 
 #### Invitation
