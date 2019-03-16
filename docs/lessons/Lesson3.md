@@ -113,7 +113,7 @@ No matter where you file your docs, think carefully about:
  - Which folder x team permissions make the most sense for your project
  - Guidance about which kinds of documents go in which places
 
-Disk space is cheap; document search is cheap. Beyond these high level considerations, don't hand wring over baroque folder structure: Filing a document in *some* shared location with a searchable title is far more important than filing it in exactly the right subfolder. Don't postpone filing because you're overthinking subfolders. (Also note that you can add a document to more than one folder!)
+Disk space is cheap; document search is cheap. Beyond these high level considerations, don't hand wring over baroque folder structure: Filing a document in *some* shared location with a searchable title is far more important than filing it in exactly the right subfolder. Don't postpone filing because you're overthinking subfolders. (Also note that you can add a document to more than one folder! [guidance here](https://docs.google.com/document/d/1UB-3w1PKcKrNnzLRhUVqASdhZEMK6U-OwMbcxfYTNIQ/edit))
 
 Have a huge backlog of unfiled documents? Create an "attic": a folder whose contents are of unknown / archival value. Gradually move things out as needed.
 
