@@ -91,6 +91,7 @@ On the ticket you previously created:
 - Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the issue and click Close Issue. 
 - The issue will no longer be dispalyed in the list of open issue, but will be archived.
 - Some issues have a long half life without being addressed. It is best practice to have some way of designated these issues as having been triaged and determined not to be a priority. This can either be achieved with the use of a label or milestone (eg: 'parked' or 'parking lot').
+- When making a change to code or documentation in GitHub, it is possible to automatically couple a change to an issue and close it. Just use 'fixes' or 'closes' followed by the issue number (more details [here](https://github.com/data2health/operations/issues/46)).
 
 **Use direct @ mentions**
 
