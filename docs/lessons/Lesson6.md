@@ -7,6 +7,7 @@
 - [How to communicate about issues](#communicate-about-issues)
 - [How to organize issues](#organize-issues)
 - [How to query issues](#query-issues)
+- [How to close issues](#close-issues)
 - [How to assign teams](#teams)
 - [Where to go when you need help](#help)
 - [Miscellany that is good to know](#miscellany)
@@ -85,10 +86,11 @@ On the ticket you previously created:
 - Preview your text to see how your formatting looks
 - Click Comment. 
 
-**Close an issue**
-- If an issue has been addressed, click Close Issue. 
-- Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the ticket and click Close Issue. 
-- The ticket will no longer be dispalyed in the list of open issue, but will be archived.
+**Close issues**
+- If an issue has been addressed, click Close Issue. Best practice is to point to the work (whether code, documentation, etc) that has been done to close it.
+- Only close the ticket if the issue has been resolved, usually someone will write a comment describing the action they did to close the issue and click Close Issue. 
+- The issue will no longer be dispalyed in the list of open issue, but will be archived.
+- Some issues have a long half life without being addressed. It is best practice to have some way of designated these issues as having been triaged and determined not to be a priority. This can either be achieved with the use of a label or milestone (eg: 'parked' or 'parking lot').
 
 **Use direct @ mentions**
 
