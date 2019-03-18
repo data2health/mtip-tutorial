@@ -42,7 +42,11 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 
 - On the top right hand side, click "Assignees"
 - You can assign issues to yourself or other people who are part of the repository
-- In the box, start typing type their name or GitHub handle.
+- In the box, start typing type their name or GitHub handle
+- It is possible to assign up to 9 handles at once (assignment to a team is currently not supported)
+- Best practice is to assign only the people that are on the critical path at any given time; once that person has completed their portion of the issue, it can be reassigned to the next person who is on the critical path.
+- Best practice is that any given ticket that is part of a milestone should be assigned to someone
+- No milestone should be without corresponding issues.
 
 **Add labels**
 
@@ -66,7 +70,7 @@ Follow the instructions above to create a ticket about a hypothetical issue (suc
 
 On the ticket you previously created:
 
-- Assign the ticket to Nicole (nicolevasilevsky)
+- Assign the ticket to someone
 - Add a label for an enhancement
 - Create a new label and add it to the ticket
 
@@ -126,6 +130,7 @@ You can link documents and files by:
 - Create a milestone that is broad enough to be meaningful, but specific enough to be actionable.
 - Set a due date for the milestone (note that specific tasks can not be formally assigned due dates, though you can mention a desired due date in the narrative text of a ticket.
 - Each ticket can only be associated to ONE milestone, however it can have as many labels as appropriate.
+- A given issue can be part of multiple "project" boards (see below)
 
 **Your turn**
 
