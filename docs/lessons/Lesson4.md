@@ -63,7 +63,7 @@ Note - you can also download gitter to your desktop and chat through the app
 
 ### Slack
 
-[Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message. Its strength is that anyone on a project can create a "channel" with focused conversation about a particular topic. Relative to Skype or Gitter, Slack is not well suited to ad-hoc conversations with people that are not already on the same Slack room. See critique [here](https://www.quora.com/What-are-the-pros-and-cons-of-Gitter-vs-Slack).
+[Slack](https://slack.com/) is another chat platform that is independent of your GitHub account, and can also be used by individuals or teams to chat and instant message. Its strength is that anyone on a project can create a "channel" with focused conversation about a particular topic. For a head to head critique of Gitter vs Slack, see [here](https://www.quora.com/What-are-the-pros-and-cons-of-Gitter-vs-Slack).
 
 ### Skype
 Skype's strength over Slack and Gitter is that it is completely decentralized. Consequently, it is easier to convene chat or voice communication in an ad-hoc manner across teams/projects as needed. While not everyone uses Skype regularly, virtually everyone has a Skype account and it is free. You can also set up Skype-In numbers (useful for remote workers). Note that "Skype for Business" is not the same as plain ol' Skype; Skype for Business, actually has more headaches and offers less flexibility than does its free rival.
