@@ -175,6 +175,22 @@ Further reading on [Issue querys](https://help.github.com/articles/searching-iss
 
 You can set rules in your email to filter for emails that mention you, ie @username.
 
+### Clarifying "Tagging"
+
+In GitHub, the word 'tag' is used generically, but means one of the following, depending on the context:
+
+#### Issue labels 
+[Here](https://github.com/data2health/mtip-tutorial/issues?utf8=%E2%9C%93&q=label%3AGitHub+) are MTIP issues related to the label ``GitHub``. The menu of labels available for issues is configurable and (somewhat unfortunately) specific to each repo; ops label list is [here](https://github.com/data2health/mtip-tutorial/labels).
+
+#### Repo topics
+[Here](https://github.com/search?q=topic%3Adata2health+org%3Adata2health&type=Repositories) are all of the repositories tagged with ``data2health`` across all GitHub organizations. Repo tags are not a controlled vocabulary anywhere, so it relies on people knowing exactly what to type there. The other drawback is that each repo is limited to a certain number of tags (exactly how many, I can't recall). This is what this issue is about. Is it helpful to stratify which repos may be useful to each of these groups? If so, is the ``repo topics`` feature the best way to do so?
+
+#### Mentioning users and teams
+[Here](https://github.blog/2012-05-09-introducing-team-mentions/) is an article about mentioning ``users`` and ``teams``. It is what you can do to prompt an email to the members of a team in your GitHub organization.
+
+#### Software release version tags
+[Here](https://help.github.com/en/articles/creating-releases) is an article explaining how to use this feature.
+
 ### Help
 [Back to top](#overview)
 
