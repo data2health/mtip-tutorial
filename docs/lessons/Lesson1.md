@@ -30,4 +30,5 @@ Project Management Institute: [pmi.org](https://www.pmi.org/)
 [Slides](https://docs.google.com/presentation/d/1WbOkxvHcecftLYahxpeNJHbvNdQEbOPbIHf1pDPCwgU/edit#slide=id.p1)
 
 ##### [Click here for Lesson 2](https://data2health.github.io/mtip-tutorial/lessons/Lesson2.html) 
+### [Suggest an edit here](https://github.com/data2health/mtip-tutorial/edit/master/docs/lessons/Lesson1.md)
 ### [Back to Home](../index)
