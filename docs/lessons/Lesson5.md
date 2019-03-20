@@ -88,7 +88,7 @@ However, it is more capable for some filetypes than it is for others. Certain fi
 - Trying uploading an Excel file vs a TSV or CSV file. How are these displayed differently?
 
 ### Chat
-- If you have been onboarded to CD2H, you should have received an invite to cd2h.slack.com; feel free to join the #mtip channel. If you have not been invited but would like to be, please email data2health [at] gmail.com
+- For realtime help with this tutorial, please go to our Gitter chat [here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link). You will need to log in with GitHub (preferable) or Twitter.
 
 ### Additional Resources
 - [Frequently Asked Questions](https://docs.google.com/document/d/1UNNxrOpHm7B9hw2Xn2JP_O1DYa7tCHx8OYEC1r0YAyU/edit#)
