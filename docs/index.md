@@ -34,7 +34,7 @@ We are -- all of us -- continually learning. Road-tested lessons learned and str
 
 **Note: This content is still under development; timing of each lesson is approximate and includes time for putting it into practice.**  
 
-| Time (PT)| Lesson # | Description | 
+| Time (see timezone above)| Lesson # | Description | 
 |:-------:|:-------------:|:------------------:|
 |9am	| [1](lessons/Lesson1.md)	| [Introduction to agile project management techniques](lessons/Lesson1.md)| 
 |10am	| [2](lessons/Lesson2.md)	| [Introduction to form-based onboarding for teams](lessons/Lesson2.md) | 
