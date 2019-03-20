@@ -5,7 +5,7 @@
 March 25, 2019 
 
 **Time**: 
-9am - 5pm PT (with a break for non-hosted lunch)  
+9am - 5pm Central (with a break for non-hosted lunch)  
 
 **Where**: 
 Northwestern University Chicago campus
