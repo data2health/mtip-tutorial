@@ -21,6 +21,10 @@ Translational Informatics projects are increasingly cross-institutional and even
 
 **Cost**: Free to attend  
 
+#### Pre-work
+
+Please complete the steps here in [Lesson 0](https://data2health.github.io/mtip-tutorial/lessons/Lesson0.html) so that you are able to keep up with the exercises.
+
 #### Registration
 
 Register at http://bit.ly/mtip_nu
