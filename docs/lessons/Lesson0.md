@@ -12,7 +12,7 @@ Let's face it: an all-day video conference is hard. It will be more fun if it is
 
 #### 2) Make sure you have a computer to use
 
-You will learn best if you are trying to apply the skills rather than just absorb them.
+You will learn best if you are actively applying the skills rather than just observing them.
 
 #### 3) Join the MTIP team and chatroom
 
