@@ -16,8 +16,8 @@ You will learn best if you are actively applying the skills rather than just obs
 
 #### 3) Join the MTIP team and chatroom
 
-- You will first need a GitHub account if you don't already have one; it is absolutely free at github.com/join. 
-- Then join the public tutorial Chat room [on Gitter here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and sign in with GitHub
+- You will first need a GitHub account if you don't already have one; it is absolutely free at [github.com/join](https://github.com/join). 
+- Then go to the the public tutorial Chat room [on Gitter here](https://gitter.im/tis-lab/MTIP-tutorial?utm_source=share-link&utm_medium=link&utm_campaign=share-link) and sign in with GitHub
 - I will then invite each to the MTIP tutorial team on GitHub. Membership in the team will give you the credentials you will need to complete the exercises.
 
 #### 4) Share (or just bring) your use case
