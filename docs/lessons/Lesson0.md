@@ -8,7 +8,7 @@
 
 We will be screensharing over Zoom for remote participants so please [install it](https://zoom.us/download) on your computer if you haven't already. You may also join the Zoom if you are participating in person, however in this case please remain completely _off audio_ (note that this is different from just being on mute). 
 
-Let's face it: an all-day video conference is hard. It will be more fun if it is as lively and interactive as possible, so please participate by video unless you have bandwidth constraints.
+Let's face it: an all-day video conference is hard. It will be more fun if it is as lively and interactive as possible, so please participate with video on, at least when you are talking, unless you have bandwidth constraints.
 
 #### 2) Make sure you have a computer to use
 
