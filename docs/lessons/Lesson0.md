@@ -4,7 +4,7 @@
 ### Overview
 
 
-#### 1) Download Zoom
+#### 1) Download Zoom (video on please)
 
 We will be screensharing over Zoom for remote participants so please [install it](https://zoom.us/download) on your computer if you haven't already. You may also join the Zoom if you are participating in person, however in this case please remain completely _off audio_ (note that this is different from just being on mute). 
 
