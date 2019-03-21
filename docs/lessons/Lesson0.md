@@ -22,9 +22,9 @@ You will learn best if you are trying to apply the skills rather than just absor
 
 #### 4) Bring your use case
 
-Do you have a particular concrete problem you are hoping the MTIP training will help you solve? If so, are you willing to have the class screenshare as we strategize a custom approach for you? If the answer is "yes yes", please email data2health+mtip@gmail asap so that we can queue it up. 
+Do you have a particular concrete problem you are hoping the MTIP training will help you solve? If so, are you willing to have the class screenshare as we strategize a custom approach for you? If the answer is "yes yes", please [email] (mailto:data2health+mtip@gmail.com) asap so that we can queue it up. 
 
-If you have a specific use case, but *don't* want to share it with the class, that's ok. However, consider bringing the documents/project milestones/data/calendar/team roster or whatever is most vexing. Synthetic use cases will also be available if you prefer.
+If you have a specific use case, but *don't* want to share it with the class, that's ok. However, consider bringing your documents/project milestones/data/calendar/team roster or whatever to work on. Synthetic use cases will also be available if you prefer.
 
 ##### [Click here for Lesson 1](https://data2health.github.io/mtip-tutorial/lessons/Lesson1.html) 
 ##### [Suggest an edit here](https://github.com/data2health/mtip-tutorial/edit/master/docs/lessons/Lesson0.md)
