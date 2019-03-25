@@ -3,6 +3,9 @@
 
 It can be tricky to maintain the source-of-truth for participants of a project larger than a dozen people. Well-considered forms can help achieve this; however, it can be useful to know what kind of form you need.
 
+ - DRY principle: Don't Repeat Yourself
+ - WET principle: Write Everything Twice
+
 ### Overview
 
 - We will introduce REDCap but the hands-on training will be for Google forms (REDCap authorization varies by institution and REDCap-specific training is typically offered for free once authorized). Some of the basic information management techniques you will learn using Google forms / spreadsheets are transferrable to REDCap / excel.
