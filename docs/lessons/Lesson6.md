@@ -22,7 +22,7 @@
 
 How to create an issue in GitHub:
 
-- We will practice creating tickets in this repository [https://github.com/data2health/mtip-tutorial-temp](https://github.com/data2health/mtip-tutorial-temp)
+- We will practice creating tickets in this repository [https://github.com/data2health/mtip-tutorial](https://github.com/data2health/mtip-tutorial)
 - Click "issues"
 - Click "New Issue" (note the word 'issue' and 'ticket' are frequently used interchangeably)
 - Write an informative title
