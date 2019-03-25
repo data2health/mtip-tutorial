@@ -4,7 +4,10 @@
 It can be tricky to maintain the source-of-truth for participants of a project larger than a dozen people. Well-considered forms can help achieve this; however, it can be useful to know what kind of form you need.
 
  - DRY principle: Don't Repeat Yourself
+ versus
  - WET principle: Write Everything Twice
+ 
+ Aim for as dry as possible
 
 ### Overview
 
