@@ -97,6 +97,9 @@ Do not keep multiple versions lying around in parallel with no links between the
 
 ![](../other-images/deprecation.png)
 
+##### Restoring a previous version from Google docs
+Once you have selected the version you want to restore, you will see a "Restore this version" button at the top. Note that if you are NOT the document owner, you may not see this button at all.
+
 #### Document naming
 
 Do not embed dates into the name of an actively edited google document. Putting the exact date creates the impression that the date corresponds to the last edits: if editing period overruns the date in the title (especially by several days/weeks) it creates confusion. 
