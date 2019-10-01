@@ -78,7 +78,9 @@ Wherever possible when creating a Google doc, it is best to do so natively rathe
 
 #### Versioning
 
-For things like weekly meeting minutes, a single document with running minutes is far better than a different document per meeting each week.
+With the exception of Google forms, all google files are version controlled: presentations, docs, sheets, drawings
+
+For things like weekly meeting minutes, a single document with running minutes is far better than a different document per meeting each week. All the better if the link to the agenda/minutes is in the recurring calendar invitation.
 
 ![](../other-images/versioning.png)
 
